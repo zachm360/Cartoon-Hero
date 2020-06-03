@@ -1,0 +1,66 @@
+body{
+	margin: 0; 
+	font-family: optima, chalkduster, fantasy, sans-serif, Arial;
+	font-size: 20px;
+}
+
+header{
+	background-color: darkorange;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+h1, h2{
+	font-family: 'Tenali Ramakrishna', sans-serif;
+
+}
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 180px;
+	border-width: 300px;
+	border: 10px solid green;
+}
+
+main{
+ 	max-width: 800px;
+ 	margin: 0 auto;
+ 	padding: 0 20px;
+}
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: darkgreen;
+	margin:40px 0 10px;
+}
+a{
+	color: darkgreen;
+}
+a:hover{
+	color: purple;
+}
+footer{
+	background-color: darkorange;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+footer p:{
+	margin: 0;
+}
+footer a:hover{
+	opacity:.5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: gray;
+	font-family: italic;
+}
