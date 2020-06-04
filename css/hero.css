@@ -38,7 +38,9 @@ main img{
 h2{
 	font-size: 35px;
 	color: darkgreen;
-	margin:40px 0 10px;
+	margin: 10px 0px 20px;
+	border-top: 5px solid orange;
+	padding-top: 5px
 }
 a{
 	color: darkgreen;
@@ -63,4 +65,18 @@ footer a:hover{
 .caption{
 	color: gray;
 	font-family: italic;
+}
+
+.table{
+	border: 5px solid sienna;
+	text-align: center;
+}
+.container{
+	background-color: #8FBC8B;
+}
+.form{
+	position: relative;
+	width: 90px;
+	height: 200px;
+	background-color:  olivedrab;
 }
